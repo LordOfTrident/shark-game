@@ -3,7 +3,7 @@
 
 <p align="center">
 	<a href="./LICENSE">
-		<img alt="License" src="https://img.shields.io/badge/license-MIT-26c374?style=for-the-badge">
+		<img alt="License" src="https://img.shields.io/badge/license-GPL v3-26c374?style=for-the-badge">
 	</a>
 	<a href="https://github.com/LordOfTrident/shark-game/issues">
 		<img alt="Issues" src="https://img.shields.io/github/issues/LordOfTrident/shark-game?style=for-the-badge&color=4f79e4">
