@@ -17,8 +17,8 @@
 A shark game
 
 ## Table of contents
-* [Quickstart](quickstart)
-* [Bugs](bugs)
+* [Quickstart](#quickstart)
+* [Bugs](#bugs)
 
 ## Quickstart
 ```sh
